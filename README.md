@@ -1,8 +1,8 @@
-# Hello, World! 👺
+# Hello, World! ⛩️
 
 <img align="left" src="https://i.imgur.com/Xq5Od8l.png" width="300" height="300" />
 
-## carlitos.
+## about me.
 
 ![name](https://img.shields.io/static/v1?label=&message=Name%3A&color=111&style=flat-square)
 ![name2](https://img.shields.io/static/v1?label=&message=Carlos%20V.&color=555&style=flat-square)
