@@ -1,4 +1,4 @@
-# Hello, World! 👹
+# Hello, World! 👺
 
 <img align="left" src="https://i.imgur.com/Xq5Od8l.png" width="300" height="300" />
 
