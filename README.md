@@ -23,4 +23,3 @@
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=lordcreations&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=creationslord%40gmail.com&color=555&logoColor=AAA&style=flat-square)
 ![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=carlitos.%230001&color=555&logoColor=AAA&style=flat-square)
-![](https://komarev.com/ghpvc/?username=flooowd)
