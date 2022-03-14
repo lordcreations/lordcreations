@@ -22,4 +22,4 @@
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=lordcreations&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=creationslord%40gmail.com&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=carlitos.%232681&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=carlitos.%230001&color=555&logoColor=AAA&style=flat-square)
